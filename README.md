@@ -55,12 +55,4 @@ OR deploy with **Netlify / Vercel** in seconds.
 
 ## 💡 Credits
 
-Made by **Ahmed Alieisa** ✨
-
----
-
-Feel free to customize it with your own screenshots or extra info!
-
----
-
-If you want, I can also generate a **cool badge section** (stars, deploy status) and a **screenshots gallery** for your README to make it look extra pro. Just ask! 😌
+Made by **Ahmed Alie Eisa** ✨
